@@ -17,11 +17,11 @@ Artworks situated outdoors. In 20th-century Western art, especially with the bir
   
 # Project Demo Links:
 
-Github Reposistory Link:
+Github Reposistory Link:https://github.com/padmasrirangana/Exteriorart
 
-Azure Project Link:
+Azure Project Link:https://purple-rock-058db9310.2.azurestaticapps.net
 
-Azure Bot service Link of Project:
+Azure Bot service Link of Project:https://purple-rock-058db9310.2.azurestaticapps.net/bot.html
 
 # Azure Resources page,Static webapps,Azure bot service Configuration:
 
