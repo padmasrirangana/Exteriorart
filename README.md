@@ -2,7 +2,8 @@
 
 # Project Name:Exterior Art
 
-# Project Synopsis: Artworks situated outdoors. In 20th-century Western art, especially with the birth of abstract art, outdoor sculpture transcended its origins as monuments, memorials, and adornment for buildings, with artist building them as artworks independent of a specific purpose. Importantly, this category includes public art, as well as many large-scale sculptures and outdoor installations.
+# Project Synopsis: 
+Artworks situated outdoors. In 20th-century Western art, especially with the birth of abstract art, outdoor sculpture transcended its origins as monuments, memorials, and adornment for buildings, with artist building them as artworks independent of a specific purpose. Importantly, this category includes public art, as well as many large-scale sculptures and outdoor installations.
 
 # Azure Technology Used:
   Static Webapp
@@ -42,5 +43,36 @@ Azure Test in Webchat:
 ![azure bot test in webchat2](https://user-images.githubusercontent.com/121003830/209520095-02b7b88d-58a3-4a13-a7ae-92ea90c53906.png)
 ![test in webchat 3](https://user-images.githubusercontent.com/121003830/209520120-56d5f56f-b9ed-4d69-a7f3-827c3b5031ff.png)
 
+# Project Screen Shots:
 
+Homepage:
+![HOme page](https://user-images.githubusercontent.com/121003830/209520684-89a1dc48-3ea1-4fd1-ab0f-6f56a2dfde1d.png)
+
+About us:
+![About us page](https://user-images.githubusercontent.com/121003830/209520726-dcc21d26-097f-42a0-973e-b98862a1a6b7.png)
+
+Services page:
+![Services page](https://user-images.githubusercontent.com/121003830/209520783-2e57a08e-8b57-49d4-b34b-79987ebe4453.png)
+
+Contact us page:
+![Contact us](https://user-images.githubusercontent.com/121003830/209520813-97fd4b6e-d3a8-4e53-beaf-2b8ef6a1c6b3.png)
+
+Bot service page:
+![Bot service](https://user-images.githubusercontent.com/121003830/209520883-c1fbe00a-142e-4574-9042-4133800cde8b.png)
+
+Bot Funtionality page:
+
+![bot1](https://user-images.githubusercontent.com/121003830/209520923-9b28585c-49ab-4307-b501-6a16117fdbb7.png)
+
+![bot2](https://user-images.githubusercontent.com/121003830/209520932-61ab07be-3866-4931-b708-aea75b75b3b3.png)
+
+![bot3](https://user-images.githubusercontent.com/121003830/209520946-571110f2-2738-4473-a7dd-44db98bff201.png)
+
+![bot5](https://user-images.githubusercontent.com/121003830/209520962-09f174e4-872b-4251-9fc8-48b2ca5d480b.png)
+
+![bot6](https://user-images.githubusercontent.com/121003830/209520979-dc12f23c-eab6-43b5-8f92-c9593407f0bb.png)
+
+                                                # @@@@@@@@@@@@@@
+
+# Thank you
 
