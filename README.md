@@ -21,7 +21,7 @@ Github Reposistory Link:https://github.com/padmasrirangana/Exteriorart
 
 Azure Project Link:https://purple-rock-058db9310.2.azurestaticapps.net
 
-Azure Bot service Link of Project:https://purple-rock-058db9310.2.azurestaticapps.net/bot.html
+video demo url:https://www.youtube.com/watch?v=gl9LKfHpiaM&t=44s
 
 # Azure Resources page,Static webapps,Azure bot service Configuration:
 
